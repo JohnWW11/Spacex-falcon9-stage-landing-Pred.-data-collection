@@ -13,3 +13,4 @@ Execute SQL queries to answer assignment questions
 
 Added Exploratory Data Analysis (EDA) - Visualization - crucial step in understanding and summarizing the data 
 Added - Completed Interactive-Folium-Launch site Project - Tasks 1-3
+Added SpaceX Interactive Dasbioard files. IDE did not wiork as it should and the app coiuld not render as it should
