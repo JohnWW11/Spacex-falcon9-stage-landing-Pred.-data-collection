@@ -12,3 +12,4 @@ Load the dataset into the corresponding table in a Db2 database
 Execute SQL queries to answer assignment questions
 
 Added Exploratory Data Analysis (EDA) - Visualization - crucial step in understanding and summarizing the data 
+Aded - Completed Interactive-Folium-Launch site Project - Tasks 1-3
