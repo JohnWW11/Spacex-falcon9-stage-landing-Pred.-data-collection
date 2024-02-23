@@ -4,7 +4,7 @@ DS-Capstone Project, that will predict if the Falcon 9 first stage will land suc
 
 Added Web Scraping Falcon 9 and Heavy Launches Records from Wikipedia -Jupyter LAB file 
 
-Added Sata Wrangling - Exploring the perform of some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+Added Data Wrangling - Exploring the perform of some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
 
 Added EDA Assignment: SQL Notebook for Peer Assignment - Using this Python notebook for the:
 Understand the Spacex DataSet
